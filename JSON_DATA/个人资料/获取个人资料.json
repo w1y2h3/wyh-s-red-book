@@ -1,0 +1,15 @@
+{"data": {
+  "created": "2023-04-24T12:22:55.000+00:00",
+  "updated": "2023-05-22T15:56:27.000+00:00",
+  "id": 1,
+  "username": "xm",
+  "password": "123456",
+  "phone": "13850429386",
+  "headphoto": "https://tse1-mm.cn.bing.net/th/id/OIP-C.qyPOItznvLFRirYKadXwYwHaLH?w=200&h=300&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+  "gender": 1,
+  "age": 22,
+  "introduction": "无",
+  "userType": "admin",
+  "money": 8015.5,
+  "returnMoney": 498.75
+}}
